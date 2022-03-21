@@ -1,4 +1,4 @@
-# brazilian-cars-classifier
+# car-classifier-br 
 
 
 Project just for fun, using the fast.ai library.
@@ -23,7 +23,7 @@ The model can classify over 250 different vehicles.
   
 More about can be seen in the "notebooks" folder.
 
-<center><img src="https://raw.githubusercontent.com/pstwh/brazilian-cars-classifier/master/images/1.png"/></center>
+<center><img src="https://raw.githubusercontent.com/pauloasjx/car-classifier-br/master/images/1.png"/></center>
 
 ## 2) Api
 
@@ -62,14 +62,14 @@ response: json
 
 Simple application just for using the api route. 
 
-<center><img src="https://raw.githubusercontent.com/pstwh/brazilian-cars-classifier/master/images/2.gif"></center>
+<center><img src="https://raw.githubusercontent.com/pauloasjx/car-classifier-br/master/images/2.gif"></center>
 
 
 ## 4) Mobile
 
 React native application, just to use device camera and the api route.
 
-<center><img src="https://raw.githubusercontent.com/pstwh/brazilian-cars-classifier/master/images/3.gif"/></center>
+<center><img src="https://raw.githubusercontent.com/pauloasjx/car-classifier-br/master/images/3.gif"/></center>
 
 ## Build With
 
